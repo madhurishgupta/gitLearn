@@ -10,4 +10,8 @@ class Math {
 	public static int su (int a, int b) {
 		return (a-b);
 	}
+
+	public static void fun() {
+		// function coming from testing branch
+	}
 }
